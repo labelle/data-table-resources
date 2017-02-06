@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Table</title>
+   
+    
+    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/responsive/2.1.0/css/responsive.bootstrap.css">
+    
+    <script type="text/javascript" language="javascript" src="js/jquery-1.12.4.js"></script>
+    <script type="text/javascript" language="javascript" src="js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="//cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.js"></script>
+    
+      
+     
+    <style type="text/css">
+body {
+    margin: 2em;
+    background-color: ivory;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height:1.4375;
+}
+
+a:link    { 
+color: black;
+text-decoration: none;
+font-weight: normal;
+}
+
+table.dataTable tbody tr {
+    background-color: inherit;
+}
+
+
+a:visited { 
+color: #555; }
+
+a:hover   { 
+color: red;
+}
+
+a:active  { 
+color: lime
+}
+
+tr {
+   color: #555;
+}
+
+table.dataTable tbody tr:hover {
+    color: black;
+    background-color: lightyellow;
+}
+
+tr:hover a {
+    color: rgba(0, 174, 239, 1);
+}
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    width:100%;
+}
+
+caption {
+    margin-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    margin-top: 3em;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+table.dataTable tbody th,
+td {
+    border: solid #666 1px;
+    padding-bottom: 1em !important;
+    padding-top: 1em !important;
+    text-align: left;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+/* search form */
+
+.evo-form-text {
+    font-family: sans-serif;
+    display: block;
+    overflow: auto;
+}
+/*
+input {
+    line-height: 200%;
+    width: 100%;
+    padding: .38rem;
+    font-size: .84rem;
+    border-radius: 5px;
+    border: 2px solid #CCC;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+*/
+input {
+max-width: 34rem;
+float: left;
+line-height: 200%;
+width: 100%;
+padding: .38rem;
+font-size: .84rem;
+border-radius: 5px;
+border: 2px solid #CCC;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+appearance: none;
+}
+
+
+.uneditable-input.focus-border-color:focus,
+input.focus-border-color:focus,
+input[type].focus-border-color:focus,
+textarea.focus-border-color:focus {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0, 174, 239, .8);
+    outline: 0;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 0px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0px;
+}
+/* above styles are from http://codepen.io/jasen1/pen/wgrNvE that you gave me*/
+
+/* to make filter textbox full width and icon adjustment*/
+
+
+.dataTables_wrapper .dataTables_filter input{
+background: url(https://labelle.github.io/evolution-patterns/icons-gray/book-gray/search-book-gray.svg) no-repeat scroll 98% 50%;
+    background-size: 25px 25px;
+
+}
+
+.dataTables_wrapper .dataTables_filter input:focus{
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0, 174, 239, .8);
+    outline: 0;
+}
+
+[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/* to adjust filter textbox to alignment*/
+.dataTables_wrapper .dataTables_filter{
+    float: none;
+}
+
+#example_info {
+    clear: none;
+    float: right;
+}
+
+/* To make table responsive we have given its width 100% to adjust in all device width*/
+#example{
+    width:100% !important;
+}
+
+
+</style>
+</head>
+<body>
+
+
+
+<h1>Resources</h1>
+
+<table id="example">
+<thead>
+        <tr>
+            <th scope="col" id="first">Resource</th>
+            <th scope="col" id="second">Category</th>
+            <th scope="col" id="third">Rating</th>
+            <th scope="col" id="forth">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table>
+<script type="text/javascript">
+// creating datatable from json file with .txt extention
+/*
+"bLengthChange":false => to hide show filter number dropdown
+"oLanguage": { "sSearch": "" } => to remove by default placeholder of filter textbox
+
+*/
+    var dynatable= $('#example').DataTable( {
+        "bLengthChange":false,
+        "oLanguage": { "sSearch": "" },
+        "ajax": "jsonforresources.txt",
+         "responsive": true,
+        "paging": false,
+        "sPaginationType": "full_numbers",
+        "columns": [
+            { "data": "Resource" },
+            { "data": "Category" },
+            { "data": "Rating" },
+            { "data": "Description" }
+        ],
+        "columnDefs": [
+            {
+                "render": function ( data, type, row ) {
+                    return "<a href='"+row.url+"'>"+data +"</a>";
+                },
+                "targets": 0
+            },
+            {
+                "render": function ( data, type, row ) {
+                    if(data=="")
+                        return "<img src='images/star-outlined.svg' style='width:20px' />";
+                    else
+                        return "<img src='images/star.svg' style='width:20px'  />";
+                },
+                "targets": 2
+            }
+        ]
+        
+    } );
+
+// pull showing records label to up of table
+$("#example_info").detach().prependTo('#example_wrapper');
+
+/// this is for put placeholder for filter textbox
+     $('input[type="search"]').attr("placeholder","Search");
+</script>
+</body>
+</html>
