@@ -1,1550 +1,1949 @@
 { "data":[
   {
+    "Resource": "0 to 255",
+    "[ URL of the resource ]": "http://www.0to255.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Modular Scale Color Picker"
+  },
+  {
+    "Resource": "10 Best Sketch App Plugins",
+    "[ URL of the resource ]": "https://www.linkedin.com/pulse/10-best-sketch-app-plug-ins-stephen-gates",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "Collection of plugins for Bohemian Sketch"
+  },
+  {
+    "Resource": "20 Docs and Guides for Front-End Developers",
+    "[ URL of the resource ]": "https://www.sitepoint.com/20-docs-guides-front-end-developers-9/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "75 of the Smartest Resources for Web Designes",
+    "[ URL of the resource ]": "https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "Collection of links"
+  },
+  {
+    "Resource": "A Monster List of Ui Guidelines Style Guides",
+    "[ URL of the resource ]": "http://www.theuxbookmark.com/2010/08/interaction-design/a-monster-list-of-ui-guidelines-style-guides/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "A Visual Type Scale",
+    "[ URL of the resource ]": "http://type-scale.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "A-frame",
+    "[ URL of the resource ]": "https://aframe.io/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": "A web framework for building virtual reality experiences"
+  },
+  {
+    "Resource": "A11y Project: Accessible Widget and Pattern Library",
+    "[ URL of the resource ]": "http://a11yproject.com/patterns/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Accessibility"
+  },
+  {
     "Resource": "Accessible SVGs",
-    "url": "https://css-tricks.com/accessible-svgs/",
+    "[ URL of the resource ]": "https://css-tricks.com/accessible-svgs/",
     "Category": "Article",
     "Rating": "",
     "Description": "Accessible SVGs"
   },
   {
-    "Resource": "Brand Frost: Atomic Design Article",
-    "url": "http://bradfrost.com/blog/post/atomic-web-design/",
-    "Category": "Article",
-    "Rating": "?",
-    "Description": ""
-  },
-  {
-    "Resource": "Brad Frost: Atomic Design Book",
-    "url": "http://atomicdesign.bradfrost.com/table-of-contents/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Spotify: Design Doesn't Scale",
-    "url": "https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Making design core to the agile process",
-    "url": "https://medium.com/salesforce-ux/making-design-core-to-the-agile-process-3e06b083e8a8",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Nerd's Guide to Color on the Web",
-    "url": "https://css-tricks.com/nerds-guide-color-web/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Taking Pattern Libraries to the Next Level",
-    "url": "https://www.smashingmagazine.com/2016/10/taking-pattern-libraries-to-the-next-level/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Managing Typography on Large Apps",
-    "url": "http://csswizardry.com/2016/02/managing-typography-on-large-apps/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "20 Docs Guides for Front-End Developers",
-    "url": "https://www.sitepoint.com/20-docs-guides-front-end-developers-9/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Breadcrumbs for Websites What When and How",
-    "url": "https://uxplanet.org/breadcrumbs-for-web-sites-what-when-and-how-9273dacf1960",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Designing Imaginative Style Guides",
-    "url": "https://24ways.org/2016/designing-imaginative-style-guides/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Designing Inspired Style Guides",
-    "url": "https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "The Typographic Scale",
-    "url": "http://retinart.net/typography/typographicscale/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Scale and Rhythm",
-    "url": "http://lamb.cc/typograph/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Typography First",
-    "url": "http://anartfulscience.com/Typography-First.php",
-    "Category": "Article",
-    "Rating": "",
-    "Description": "A web designer's guide to perfecting web typography"
-  },
-  {
-    "Resource": "Scaling SVG icons without scaling the stroke",
-    "url": "http://callmenick.com/post/svg-vector-effects",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Easy Steps to Better Logo Design",
-    "url": "https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Tympanus.net: SVG Icons FTW",
-    "url": "http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Shopify: How to Use Icons to Enhance your Ecommerce Website",
-    "url": "https://www.shopify.com/partners/blog/how-to-use-icons-to-enhance-your-ecommerce-website",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Shipify: 12 Incredible Resources for Downloading Icon Packs",
-    "url": "https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Free Icon Sets",
-    "url": "https://www.smashingmagazine.com/2016/02/free-icon-sets-e-commerce-web-hosting-food-science-and-more/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Rethinking Responsive SVG",
-    "url": "https://www.smashingmagazine.com/2014/03/rethinking-responsive-svg/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "How to Use and Embed an Icon Font on Your Website",
-    "url": "https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website",
-    "Category": "Article",
-    "Rating": "",
-    "Description": "Free Samples"
-  },
-  {
-    "Resource": "Building Icons Systems with SVG",
-    "url": "https://www.shopify.com/partners/blog/building-icon-systems-with-svg",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Webflow: Tips and Resources",
-    "url": "https://webflow.com/blog/website-background-video-tips-tricks-and-resources",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Developing Extensible HTML CSS Components",
-    "url": "https://css-tricks.com/developing-extensible-html-css-components/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Design Better Forms Usability",
-    "url": "https://uxdesign.cc/design-better-forms-96fadca0f49c#.8ihbu0pgq",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "How to Build a Revolultion Slider",
-    "url": "http://previous.themepunch.com/revolution4-jquery/liveguide/01.Sample-Boxed.html",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Responsive Videos",
-    "url": "https://css-tricks.com/reframe-js-notes/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "How to Make an HTML5 Video Background",
-    "url": "https://envato.com/blog/video-background-html5-video/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "SVG Maps",
-    "url": "http://mediatemple.net/blog/tips/map-rollovers1/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "How to establish a Modular Typographic Scale",
-    "url": "http://webdesign.tutsplus.com/articles/how-to-establish-a-modular-typographic-scale--webdesign-14927",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "More Meaningful Typography",
-    "url": "http://alistapart.com/article/more-meaningful-typography",
-    "Category": "Article",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Carousels Don't Have to be Complicated",
-    "url": "http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/",
-    "Category": "Article",
-    "Rating": "",
-    "Description": "Sliders"
-  },
-  {
-    "Resource": "GE Case Study: Creating the Predix Design System",
-    "url": "https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.l5644w6uj",
-    "Category": "Case Study",
+    "Resource": "Adobe Edge Fonts",
+    "[ URL of the resource ]": "https://edgewebfonts.adobe.com/",
+    "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Airbnb Case Study: Building a Visual Language",
-    "url": "http://airbnb.design/building-a-visual-language/",
+    "[ URL of the resource ]": "http://airbnb.design/building-a-visual-language/",
     "Category": "Case Study",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "On Design Systems: Sell the Output, Not the Workflow",
-    "url": "https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/",
-    "Category": "Case Study",
+    "Resource": "Angular Flexbox Alignment",
+    "[ URL of the resource ]": "https://material.angularjs.org/latest/layout/alignment",
+    "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Designing Modular UI Systems Via Styleguide-Driven Development",
-    "url": "https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/",
-    "Category": "Case Study",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "The Language of Modular Design",
-    "url": "http://alistapart.com/article/language-of-modular-design",
-    "Category": "Case Study",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "How Creating a Design Language Can Streamline Your UX Design Process",
-    "url": "https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/",
-    "Category": "Case Study",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Making an Icon Font System",
-    "url": "https://medium.com/etsy-design/etsys-evolving-icon-system-41c55a639be2",
-    "Category": "Case Study",
-    "Rating": "",
-    "Description": "How etsy systematized and customized their icons"
-  },
-  {
-    "Resource": "The Road to SVG and Custom Elements in Clarity Icons",
-    "url": "https://medium.com/claritydesignsystem/the-road-to-svg-and-custom-elements-in-clarity-icons-1d691c6cc91",
-    "Category": "Case Study",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "User CSS",
-    "url": "https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "A quick and easy way to add custom CSS to the current web site."
-  },
-  {
-    "Resource": "Google Font Previewer",
-    "url": "https://chrome.google.com/webstore/detail/google-font-previewer-for/engndlnldodigdjamndkplafgmkkencc",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Preview Google Fonts on a live webpage"
-  },
-  {
-    "Resource": "Bootstrap Grid Inspector",
-    "url": "https://chrome.google.com/webstore/detail/bootstrap-grid/gmoboekiodfcajledjijioecfimliddo",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Bootsrap grid overlay"
-  },
-  {
-    "Resource": "Foundation Grid Inspector",
-    "url": "https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Foundation grid overlay"
-  },
-  {
-    "Resource": "ColorZilla",
-    "url": "http://www.colorzilla.com/",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Color picker"
-  },
-  {
-    "Resource": "WhatFont",
-    "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Identify fonts on web pages"
-  },
-  {
-    "Resource": "Flutter: CSS Selector",
-    "url": "https://flutter.social/bookmarklet",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "CSS Selector bookmarklet"
-  },
-  {
-    "Resource": "Firebug Lite",
-    "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench/details",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Inspect HTML elemements and live edit CSS properties"
-  },
-  {
-    "Resource": "Web Developer Tools",
-    "url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Port of web developer tools from firefox"
-  },
-  {
-    "Resource": "CSS Viewer",
-    "url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "A simple CSS property viewer"
-  },
-  {
-    "Resource": "Enjoy CSS Online CSS Code Generator",
-    "url": "https://chrome.google.com/webstore/detail/enjoycss/glaicnlmooddlibnipmedfkfjkphoklc",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Online CSS3 Code Generator With a Simple Graphical Interface"
-  },
-  {
-    "Resource": "Font Playground",
-    "url": "https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?hl=en",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": "Preview your sites with Google web fonts and get the code"
-  },
-  {
-    "Resource": "Foundation Grid Overlay",
-    "url": "https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn/related",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Ebay Design Grid System Overlay",
-    "url": "https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi",
-    "Category": "Chrome Plugin",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Styleguides Directory",
-    "url": "http://styleguides.io/",
-    "Category": "Collection",
-    "Rating": "?",
-    "Description": ""
-  },
-  {
-    "Resource": "UI 8",
-    "url": "https://ui8.net/categories/freebies",
-    "Category": "Design Resource",
-    "Rating": "",
-    "Description": "Collection of free design resources to get you started"
-  },
-  {
-    "Resource": "Vizuly",
-    "url": "http://vizuly.io/product-category/free/",
-    "Category": "Design Resource",
-    "Rating": "",
-    "Description": "Vizualization components for the modern web"
-  },
-  {
-    "Resource": "IBM Design Language",
-    "url": "https://www.ibm.com/design/language/",
-    "Category": "Design System",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Salesforce Lightning Design System",
-    "url": "https://www.lightningdesignsystem.com/",
-    "Category": "Design System",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Payment Font",
-    "url": "http://paymentfont.io/",
-    "Category": "Font",
-    "Rating": "",
-    "Description": "A sleek webfont containing 95 icons of all main payment operators and methods"
-  },
-  {
-    "Resource": "Pixlesurplus Free Fonts",
-    "url": "http://www.pixelsurplus.com/freebies/",
-    "Category": "Fonts",
-    "Rating": "",
-    "Description": "Free fonts"
-  },
-  {
-    "Resource": "Font Space",
-    "url": "http://www.fontspace.com/",
-    "Category": "Fonts",
-    "Rating": "",
-    "Description": "Free fonts"
-  },
-  {
-    "Resource": "Bootstrap 3",
-    "url": "getbootstrap.com",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Foundation 6",
-    "url": "foundation.zurb.com",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Wee",
-    "url": "weepower.com",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Pure CSS",
-    "url": "http://purecss.io/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Flexboxgrid",
-    "url": "http://flexboxgrid.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Typeplate: Typographic Starter Kit",
-    "url": "http://typeplate.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Tachyons",
-    "url": "http://tachyons.io/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "BassCSS",
-    "url": "http://www.basscss.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Elements",
-    "url": "https://labelle.github.io/evolution-elements/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Skeleton",
-    "url": "http://getskeleton.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "BEM Methodology",
-    "url": "https://en.bem.info/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Vital CSS",
-    "url": "https://vitalcss.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Elemental UI",
-    "url": "http://elemental-ui.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Google Fonts Type Effects API",
-    "url": "https://developers.google.com/fonts/docs/getting_started",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Semantic UI",
-    "url": "http://semantic-ui.com",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "w3css",
-    "url": "http://www.w3schools.com/w3css/default.asp",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "UI lang",
-    "url": "http://uilang.com/",
-    "Category": "Framework",
-    "Rating": "",
-    "Description": "A minimal, ui-focused javascript programming language for web designers"
-  },
-  {
-    "Resource": "Foundation Icon Fonts 3",
-    "url": "http://zurb.com/playground/foundation-icon-fonts-3",
-    "Category": "Icon Font",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Font Awesome",
-    "url": "http://fontawesome.io/",
-    "Category": "Icon Font",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Icons8 Github",
-    "url": "https://github.com/icons8",
-    "Category": "Icon Resource",
-    "Rating": "",
-    "Description": "Open source SVG icon related offerings"
-  },
-  {
-    "Resource": "Material Design Icons",
-    "url": "https://design.google.com/icons/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font"
-  },
-  {
-    "Resource": "We Love SVG",
-    "url": "https://icons8.com/welovesvg",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Icons8 Open Source SVG Icons"
-  },
-  {
-    "Resource": "sparkk: SVG Icons",
-    "url": "http://svgicons.sparkk.fr/",
-    "Category": "Icons",
-    "Rating": "?",
-    "Description": "Ready to use SVG icons for the web"
-  },
-  {
-    "Resource": "Icon Monster",
-    "url": "http://iconmonstr.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Discover 3600+ free simple icons in 250+ collections"
-  },
-  {
-    "Resource": "Smart Icons Glyphs",
-    "url": "http://glyph.smarticons.co/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "A semantic and versatile SVG icon set designed for customization."
-  },
-  {
-    "Resource": "Bootstrap 3 Glyphicons",
-    "url": "http://getbootstrap.com/components/#glyphicons",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Over 250 glyphs in font format from the Glyphicon Halflings set"
-  },
-  {
-    "Resource": "Freebiesburg PSD Icons",
-    "url": "http://freebiesbug.com/psd-freebies/icons/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "A collection of free PSD icons crafted and released by talented designers"
-  },
-  {
-    "Resource": "Enytypo Pictograms",
-    "url": "http://www.entypo.com/",
-    "Category": "Icons",
-    "Rating": "?",
-    "Description": "400+ carefully crafted premium pictograms"
-  },
-  {
-    "Resource": "Octigons by Github",
-    "url": "https://octicons.github.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Your project. GitHub's icons."
-  },
-  {
-    "Resource": "CSS Icons",
-    "url": "http://cssicon.space",
-    "Category": "Icons",
-    "Rating": "?",
-    "Description": "Pure CSS Icons"
-  },
-  {
-    "Resource": "The Noun Project",
-    "url": "https://thenounproject.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Free Tier"
-  },
-  {
-    "Resource": "Symbolset",
-    "url": "https://symbolset.com/icons",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Nucleo",
-    "url": "https://nucleoapp.com/free-icons/",
-    "Category": "Icons",
-    "Rating": "?",
-    "Description": "Samples - Nucleo is a library of icons with super powers"
-  },
-  {
-    "Resource": "Flat Icon",
-    "url": "http://www.flaticon.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Free Tier - icons available in PNG, SVG, EPS, PSD and BASE 64 formats"
-  },
-  {
-    "Resource": "Iconic",
-    "url": "http://www.useiconic.com",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "The definitive icon set designed for the modern web."
-  },
-  {
-    "Resource": "Icon Finder Pro",
-    "url": "https://www.iconfinder.com/shopify-partners",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Streamline Icons",
-    "url": "http://www.streamlineicons.com/free-icons.html",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples"
-  },
-  {
-    "Resource": "Budicon",
-    "url": "http://budicon.buditanrim.co/free",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples"
-  },
-  {
-    "Resource": "Linear Icons",
-    "url": "https://linearicons.com/free",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples"
-  },
-  {
-    "Resource": "IcoMoon",
-    "url": "https://icomoon.io/#icons-icomoon",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples"
-  },
-  {
-    "Resource": "Smart Icons",
-    "url": "https://smarticons.co/icons",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples"
-  },
-  {
-    "Resource": "Swift Icons",
-    "url": "http://market.designmodo.com/swifticons/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples with Email"
-  },
-  {
-    "Resource": "Glyph Icons",
-    "url": "http://glyphicons.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "Samples available"
-  },
-  {
-    "Resource": "Illustrio",
-    "url": "https://app.illustrio.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "A smarter icon library"
-  },
-  {
-    "Resource": "Hero Icons",
-    "url": "http://www.heroicons.com/",
-    "Category": "Icons",
-    "Rating": "",
-    "Description": "A set of premium customizable SVG icons for your marketing website"
-  },
-  {
-    "Resource": "People Images",
-    "url": "http://peopleimages.com/",
-    "Category": "Images",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Unsplash: Free High Resolution Photos",
-    "url": "https://unsplash.com/",
-    "Category": "Images",
-    "Rating": "?",
-    "Description": "Free high-resolution photos"
-  },
-  {
-    "Resource": "Fonts in Use",
-    "url": "http://fontsinuse.com/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "An independent archive of typography"
-  },
-  {
-    "Resource": "Opensource Design",
-    "url": "http://opensourcedesign.net/resources/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "For designers interested in open source design"
-  },
-  {
-    "Resource": "Checkout Pages",
-    "url": "http://www.checkoutpages.xyz/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "Curated directory of the best checkout pages"
-  },
-  {
-    "Resource": "Pricing Pages",
-    "url": "http://www.pricingpages.xyz/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "Curated directory of the best pricing pages"
-  },
-  {
-    "Resource": "Product Pages",
-    "url": "http://www.productpages.xyz/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "Curated director of the best product pages"
-  },
-  {
-    "Resource": "Store Pages",
-    "url": "http://www.storepages.xyz/",
-    "Category": "Inspiration",
-    "Rating": "",
-    "Description": "Curated directory of the best store pages"
-  },
-  {
-    "Resource": "A11y Project: Accessible Widget and Pattern Library",
-    "url": "http://a11yproject.com/patterns/",
+    "Resource": "Animate CSS",
+    "[ URL of the resource ]": "https://daneden.github.io/animate.css/",
+    "Category": "Library",
+    "Rating": "★",
+    "Description": "CSS Animations"
+  },
+  {
+    "Resource": "Anychart JS",
+    "[ URL of the resource ]": "http://www.anychart.com/",
     "Category": "Library",
     "Rating": "",
-    "Description": "Accessibility"
+    "Description": "Powerful HTML5 charts"
   },
   {
-    "Resource": "Ebay Mindpatterns Library",
-    "url": "http://ianmcburnie.github.io/mindpatterns/",
-    "Category": "Library",
+    "Resource": "Astrum Pattern Library Generator",
+    "[ URL of the resource ]": "http://astrum.nodividestudio.com/",
+    "Category": "Tool",
     "Rating": "",
-    "Description": "Accessibility"
+    "Description": ""
   },
   {
-    "Resource": "Ebay Mindpatterns Documentation",
-    "url": "https://ebay.gitbooks.io/mindpatterns/content/",
-    "Category": "Library",
+    "Resource": "Awesome Flexbox Directory",
+    "[ URL of the resource ]": "https://github.com/afonsopacifer/awesome-flexbox",
+    "Category": "Resource",
     "Rating": "",
-    "Description": "Accessibility"
-  },
-  {
-    "Resource": "Bones",
-    "url": "https://github.com/ianmcburnie/bones",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "Accessibility"
-  },
-  {
-    "Resource": "Tympanus Codrops Blueprints",
-    "url": "http://tympanus.net/codrops/category/blueprints/",
-    "Category": "Library",
-    "Rating": "?",
-    "Description": "Basic and minimal website concepts, components, plugins and layout"
-  },
-  {
-    "Resource": "Codyhouse",
-    "url": "https://codyhouse.co/",
-    "Category": "Library",
-    "Rating": "?",
-    "Description": "A free library of HTML, CSS, JS nuggets"
+    "Description": ""
   },
   {
     "Resource": "Awesome React Components",
-    "url": "https://github.com/brillout/awesome-react-components",
+    "[ URL of the resource ]": "https://github.com/brillout/awesome-react-components",
     "Category": "Library",
     "Rating": "",
     "Description": "Catalog of React Components & Libraries"
   },
   {
-    "Resource": "Free Slider Exchange",
-    "url": "https://revolution.themepunch.com/free-slider-exchange/",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "For Revolution sliders"
-  },
-  {
-    "Resource": "Zurb Motion UI Library",
-    "url": "http://zurb.com/playground/motion-ui",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "A Sass library for creating flexible CSS transitions and animations"
-  },
-  {
-    "Resource": "Tachyons Components",
-    "url": "http://tachyons.io/components/",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "For use with tachyons framework"
-  },
-  {
-    "Resource": "Gridalicious",
-    "url": "http://suprb.com/apps/gridalicious/",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "Responsive masonry grids"
-  },
-  {
-    "Resource": "Choreographer js",
-    "url": "https://github.com/christinecha/choreographer-js",
-    "Category": "Library",
-    "Rating": "",
-    "Description": "A simple library of complex javascript animations"
-  },
-  {
-    "Resource": "Animate CSS",
-    "url": "https://daneden.github.io/animate.css/",
-    "Category": "Library",
-    "Rating": "?",
-    "Description": "CSS Animations"
-  },
-  {
-    "Resource": "David Cronin: The GE Design System and Thoughts about Craft at Scale",
-    "url": "https://vimeo.com/132580829",
-    "Category": "Presentations",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Hayley Hughes: How IBM Designs for a Global Market",
-    "url": "http://www.monotype.com/resources/webinars/how-ibm-designs-for-a-global-market/",
-    "Category": "Presentations",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Code Patterns for Pattern Making",
-    "url": "https://oddbooksapp.com/book/pattern-making",
-    "Category": "Presentations",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Refactoring CSS Without Losing Your Mind",
-    "url": "https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind",
-    "Category": "Presentations",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Motion Periodic Table",
-    "url": "http://foxcodex.html.xdomain.jp/",
-    "Category": "Reference",
-    "Rating": "",
-    "Description": "Reference for motion design techniques"
-  },
-  {
-    "Resource": "HTML 5 Boilerplate",
-    "url": "https://html5boilerplate.com/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Collection of Front End Frameworks",
-    "url": "https://usablica.github.io/front-end-frameworks/compare.html",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Directory of new domain extensions",
-    "url": "https://www.godaddy.com/tlds/gtld.aspx?catId=0",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "HTML Color Names Supported by all Browsers",
-    "url": "http://www.w3schools.com/colors/colors_names.asp",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "A Monster List of Ui Guidelines Style Guides",
-    "url": "http://www.theuxbookmark.com/2010/08/interaction-design/a-monster-list-of-ui-guidelines-style-guides/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Issuu Collection of Brand Books",
-    "url": "https://issuu.com/search?q=brandbook",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Mailchimp HTML Email Blueprints",
-    "url": "https://github.com/mailchimp/Email-Blueprints",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "W3C Schools CSS Templates",
-    "url": "http://www.w3schools.com/w3css/w3css_templates.asp",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Typography Handbook",
-    "url": "http://typographyhandbook.com/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Hero Patterns",
-    "url": "http://www.heropatterns.com/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "SVG Pattern illustrations"
-  },
-  {
-    "Resource": "Coverr",
-    "url": "http://www.coverr.co/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "Beutiful, free videos for your homepage"
-  },
-  {
-    "Resource": "Graphiq: Learn Viz Best Practices",
-    "url": "https://www.graphiq.com/learn-viz-best-practices",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "Discover some of the best practices we strive to follow in creating visualizations."
-  },
-  {
-    "Resource": "UX Power Tools",
-    "url": "https://www.uxpower.tools/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "Sketch UI kit and style guide"
-  },
-  {
-    "Resource": "Spotify Color Effects",
-    "url": "http://codepen.io/vailjoy/pen/OWVwvO/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Lorem Pixel",
-    "url": "http://lorempixel.com",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "Placeholder Images"
-  },
-  {
-    "Resource": "Sanfrancis co",
-    "url": "http://www.sansfrancis.co/",
-    "Category": "Resource",
-    "Rating": "?",
-    "Description": "A collection of tools to help designers craft delightful experiences."
-  },
-  {
-    "Resource": "CSS Font Stack",
-    "url": "http://www.cssfontstack.com/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
     "Resource": "Awesome SVG Resource List",
-    "url": "https://github.com/willianjusten/awesome-svg",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "SVG Icon Web Code",
-    "url": "https://icons8.github.io/webicon/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Free workspace illustrations kit",
-    "url": "https://www.smashingmagazine.com/2015/07/freebie-workspace-illustrations-kit/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Free background videos",
-    "url": "http://coverr.co/",
+    "[ URL of the resource ]": "https://github.com/willianjusten/awesome-svg",
     "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Awesome Web Components",
-    "url": "https://github.com/obetomuniz/awesome-webcomponents",
+    "[ URL of the resource ]": "https://github.com/obetomuniz/awesome-webcomponents",
     "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Codepen Patterns",
-    "url": "http://codepen.io/patterns/",
-    "Category": "Resource",
+    "Resource": "BassCSS",
+    "[ URL of the resource ]": "http://www.basscss.com/",
+    "Category": "Framework",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "SVG Charting Libraries",
-    "url": "http://mediatemple.net/blog/tips/svg-charting-libraries/",
-    "Category": "Resource",
+    "Resource": "BEM Methodology",
+    "[ URL of the resource ]": "https://en.bem.info/",
+    "Category": "Framework",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Flexbox Patterns",
-    "url": "http://www.flexboxpatterns.com/home",
-    "Category": "Resource",
+    "Resource": "Bones",
+    "[ URL of the resource ]": "https://github.com/ianmcburnie/bones",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Accessibility"
+  },
+  {
+    "Resource": "Bootply Bootstrap Playground",
+    "[ URL of the resource ]": "http://www.bootply.com/",
+    "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Angular Flexbox Alignment",
-    "url": "https://material.angularjs.org/latest/layout/alignment",
-    "Category": "Resource",
+    "Resource": "Bootstrap 3",
+    "[ URL of the resource ]": "getbootstrap.com",
+    "Category": "Framework",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Brad Frost Masonry Grid",
-    "url": "http://codepen.io/bradfrost/pen/XpWZGL",
-    "Category": "Resource",
+    "Resource": "Bootstrap 3 Glyphicons",
+    "[ URL of the resource ]": "http://getbootstrap.com/components/#glyphicons",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Over 250 glyphs in font format from the Glyphicon Halflings set"
+  },
+  {
+    "Resource": "Bootstrap Form Builder",
+    "[ URL of the resource ]": "https://formden.com/form-builder/",
+    "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Google Fonts",
-    "url": "https://fonts.google.com/",
-    "Category": "Resource",
+    "Resource": "Bootstrap Grid Inspector",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/bootstrap-grid/gmoboekiodfcajledjijioecfimliddo",
+    "Category": "Chrome Plugin",
     "Rating": "",
-    "Description": ""
+    "Description": "Bootsrap grid overlay"
   },
   {
-    "Resource": "Adobe Edge Fonts",
-    "url": "https://edgewebfonts.adobe.com/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Cloud Typography",
-    "url": "http://www.typography.com/cloud/welcome/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Font Squirrel",
-    "url": "https://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Awesome Flexbox Directory",
-    "url": "https://github.com/afonsopacifer/awesome-flexbox",
-    "Category": "Resource",
+    "Resource": "Bootstrap Style Guide Boilerplate",
+    "[ URL of the resource ]": "http://www.monolinea.com/projects/styleguide/",
+    "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Bootstrap Themes",
-    "url": "http://bootswatch.com/",
+    "[ URL of the resource ]": "http://bootswatch.com/",
     "Category": "Resource",
     "Rating": "",
     "Description": ""
-  },
-  {
-    "Resource": "Opencolor Color Palettes",
-    "url": "http://opencolor.tools/resources.html",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Open Color",
-    "url": "https://yeun.github.io/open-color/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "Open-source color scheme optimized for UI"
   },
   {
     "Resource": "Bootstrap Undocumented Mixins",
-    "url": "https://ely-s.github.io/mixin/",
+    "[ URL of the resource ]": "https://ely-s.github.io/mixin/",
     "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "The New Defaults",
-    "url": "https://dudleystorey.github.io/thenewdefaults/",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": "A Sass replacement for the standard CSS keyword color system"
-  },
-  {
-    "Resource": "w3schools colors",
-    "url": "http://www.w3schools.com/colors/default.asp",
-    "Category": "Resource",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Ebay Mindpatterns Skin",
-    "url": "https://ebay.github.io/skin/",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Voice and Tone",
-    "url": "http://voiceandtone.com/",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Collection of brand style guides",
-    "url": "http://www.logodesignlove.com/brand-identity-style-guides",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Wix Brand Guide",
-    "url": "http://www.wix.com/about/design-assets",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Ubuntu Design Guidelines",
-    "url": "http://design.ubuntu.com/",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Walmart Web Style Guide",
-    "url": "http://walmartlabs.github.io/web-style-guide/",
-    "Category": "Style Guide",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Lonely Planet Style Guide",
-    "url": "http://rizzo.lonelyplanet.com/styleguide/design-elements/colours",
-    "Category": "Style Guide",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "BounceApp",
-    "url": "http://bounceapp.com/",
+    "[ URL of the resource ]": "http://bounceapp.com/",
     "Category": "Tool",
     "Rating": "",
     "Description": "Grab page screenshots with URL and share"
   },
   {
-    "Resource": "Frontify",
-    "url": "https://frontify.com/",
-    "Category": "Tool",
+    "Resource": "Brad Frost Masonry Grid",
+    "[ URL of the resource ]": "http://codepen.io/bradfrost/pen/XpWZGL",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Brad Frost: Atomic Design Book",
+    "[ URL of the resource ]": "http://atomicdesign.bradfrost.com/table-of-contents/",
+    "Category": "Article",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Brand AI",
-    "url": "Brand.ai",
+    "[ URL of the resource ]": "Brand.ai",
     "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Astrum Pattern Library Generator",
-    "url": "http://astrum.nodividestudio.com/",
-    "Category": "Tool",
+    "Resource": "Brand Frost: Atomic Design Article",
+    "[ URL of the resource ]": "http://bradfrost.com/blog/post/atomic-web-design/",
+    "Category": "Article",
+    "Rating": "☆",
+    "Description": ""
+  },
+  {
+    "Resource": "Breadcrumbs for Websites What When and How",
+    "[ URL of the resource ]": "https://uxplanet.org/breadcrumbs-for-web-sites-what-when-and-how-9273dacf1960",
+    "Category": "Article",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Living Styleguide Generator",
-    "url": "http://hugeinc.github.io/styleguide/",
+    "Resource": "Broken Link Check",
+    "[ URL of the resource ]": "http://www.brokenlinkcheck.com/",
     "Category": "Tool",
+    "Rating": "",
+    "Description": "Scans a website for broken links and generates a report"
+  },
+  {
+    "Resource": "Budicon",
+    "[ URL of the resource ]": "http://budicon.buditanrim.co/free",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples"
+  },
+  {
+    "Resource": "Building Icons Systems with SVG",
+    "[ URL of the resource ]": "https://www.shopify.com/partners/blog/building-icon-systems-with-svg",
+    "Category": "Article",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Pattern Lab",
-    "url": "http://patternlab.io/",
-    "Category": "Tool",
+    "Resource": "Carnegie Mellon University Online Courses",
+    "[ URL of the resource ]": "http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free online courses"
+  },
+  {
+    "Resource": "Carousels Don't Have to be Complicated",
+    "[ URL of the resource ]": "http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "Sliders"
+  },
+  {
+    "Resource": "Chartist JS",
+    "[ URL of the resource ]": "https://gionkunz.github.io/chartist-js/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Simple responsive charts and graphs"
+  },
+  {
+    "Resource": "Checkout Pages",
+    "[ URL of the resource ]": "http://www.checkoutpages.xyz/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Curated directory of the best checkout pages"
+  },
+  {
+    "Resource": "Choreographer js",
+    "[ URL of the resource ]": "https://github.com/christinecha/choreographer-js",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "A simple library of complex javascript animations"
+  },
+  {
+    "Resource": "Class Central",
+    "[ URL of the resource ]": "https://www.class-central.com/subject/web-development",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free online courses for web development, design, marketing, more"
+  },
+  {
+    "Resource": "Cloud Typography",
+    "[ URL of the resource ]": "http://www.typography.com/cloud/welcome/",
+    "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Bootstrap Style Guide Boilerplate",
-    "url": "http://www.monolinea.com/projects/styleguide/",
-    "Category": "Tool",
+    "Resource": "Code Patterns for Pattern Making",
+    "[ URL of the resource ]": "https://oddbooksapp.com/book/pattern-making",
+    "Category": "Presentations",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Bootstrap Form Builder",
-    "url": "https://formden.com/form-builder/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Open Color Tools App",
-    "url": "http://opencolor.tools",
-    "Category": "Tool",
+    "Resource": "Codepen Patterns",
+    "[ URL of the resource ]": "http://codepen.io/patterns/",
+    "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Codeply Playground",
-    "url": "http://www.codeply.com/",
+    "[ URL of the resource ]": "http://www.codeply.com/",
     "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Bootply Bootstrap Playground",
-    "url": "http://www.bootply.com/",
-    "Category": "Tool",
+    "Resource": "Codeschool",
+    "[ URL of the resource ]": "https://www.codeschool.com/",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Learn to code by doing"
+  },
+  {
+    "Resource": "Codyhouse",
+    "[ URL of the resource ]": "https://codyhouse.co/",
+    "Category": "Library",
+    "Rating": "★",
+    "Description": "A free library of HTML, CSS, JS nuggets"
+  },
+  {
+    "Resource": "Collection of brand style guides",
+    "[ URL of the resource ]": "http://www.logodesignlove.com/brand-identity-style-guides",
+    "Category": "Style Guide",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Patterny",
-    "url": "http://patternry.com/",
-    "Category": "Tool",
+    "Resource": "Collection of Front End Frameworks",
+    "[ URL of the resource ]": "https://usablica.github.io/front-end-frameworks/compare.html",
+    "Category": "Resource",
     "Rating": "",
     "Description": ""
   },
   {
-    "Resource": "Stackedit: In-Browser Markdown Editor",
-    "url": "https://stackedit.io/",
-    "Category": "Tool",
+    "Resource": "Color Contrast Checker",
+    "[ URL of the resource ]": "http://webaim.org/resources/contrastchecker/",
+    "Category": "Color",
     "Rating": "",
-    "Description": ""
+    "Description": "A tool for checking accessibility of color contrast"
   },
   {
-    "Resource": "Sassmeister: In-Browser SASS and SCSS Editor",
-    "url": "sassmeister.com",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
+    "Resource": "Color list and scroll",
+    "[ URL of the resource ]": "http://codepen.io/jasen1/pen/MJqLMo",
+    "Category": "Color",
+    "Rating": "★",
+    "Description": "Very nice 99 step color spectrum"
   },
   {
-    "Resource": "Identifont",
-    "url": "http://www.identifont.com/",
+    "Resource": "Color Me",
+    "[ URL of the resource ]": "https://colorme.io/",
     "Category": "Tool",
     "Rating": "",
-    "Description": "Identify fonts"
+    "Description": "Visualize the CSS 4 color function"
   },
   {
-    "Resource": "Fount",
-    "url": "https://fount.artequalswork.com",
+    "Resource": "Color Palette Generator",
+    "[ URL of the resource ]": "http://colllor.com/",
     "Category": "Tool",
-    "Rating": "",
-    "Description": "Font inspector bookmarlet"
-  },
-  {
-    "Resource": "Colorzilla",
-    "url": "http://www.colorzilla.com/gradient-editor/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "Color gradient editor"
-  },
-  {
-    "Resource": "Modular Scale Typography",
-    "url": "http://www.modularscale.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Golden Ratio Typography Calculator",
-    "url": "https://pearsonified.com/typography/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Typografier Modular Scale Type Generator",
-    "url": "https://typografier.web-dev.tools",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Type Anything",
-    "url": "https://typeanything.io/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "Compare mixes of fonts"
-  },
-  {
-    "Resource": "Wordmark It",
-    "url": "http://www.wordmark.it/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "Wordmark font experimenter"
-  },
-  {
-    "Resource": "Type Scale",
-    "url": "http://type-scale.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "A visual type scale"
-  },
-  {
-    "Resource": "Fontsquirrel Webfont Generator",
-    "url": "https://www.fontsquirrel.com/tools/webfont-generator",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Searchable Bootstrap Icons",
-    "url": "http://www.bootstrapicons.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Font Custom",
-    "url": "https://github.com/FontCustom/fontcustom",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "SVG us",
-    "url": "http://www.svgs.us/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "Organize, clean and transform your SVGs"
-  },
-  {
-    "Resource": "0 to 255",
-    "url": "http://www.0to255.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": "Modular Scale Color Picker"
-  },
-  {
-    "Resource": "Swiper Slider",
-    "url": "http://www.idangero.us/swiper/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Form Linter",
-    "url": "https://formlinter.com/",
-    "Category": "Tool",
-    "Rating": "",
+    "Rating": "★",
     "Description": ""
   },
   {
     "Resource": "Color Wizard",
-    "url": "http://www.colorsontheweb.com/Color-Tools/Color-Wizard",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Web fonts: Skyfonts for Syncing Google Fonts to Your Desktop",
-    "url": "https://www.fonts.com/web-fonts/google",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Grid Lover",
-    "url": "http://www.gridlover.net/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "A Visual Type Scale",
-    "url": "http://type-scale.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Dan's Tools: Color",
-    "url": "http://www.hexcolortool.com/",
-    "Category": "Tool",
-    "Rating": "",
-    "Description": ""
-  },
-  {
-    "Resource": "Color Palette Generator",
-    "url": "http://colllor.com/",
+    "[ URL of the resource ]": "http://www.colorsontheweb.com/Color-Tools/Color-Wizard",
     "Category": "Tool",
     "Rating": "",
     "Description": ""
   },
   {
     "Resource": "Colorable",
-    "url": "http://jxnblk.com/colorable/demos/text/",
+    "[ URL of the resource ]": "http://jxnblk.com/colorable/demos/text/",
     "Category": "Tool",
-    "Rating": "",
+    "Rating": "★",
     "Description": "Color contrast checker"
   },
   {
+    "Resource": "Colorzilla",
+    "[ URL of the resource ]": "http://www.colorzilla.com/gradient-editor/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Color gradient editor"
+  },
+  {
+    "Resource": "ColorZilla",
+    "[ URL of the resource ]": "http://www.colorzilla.com/",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Color picker"
+  },
+  {
+    "Resource": "Coolors",
+    "[ URL of the resource ]": "https://coolors.co/",
+    "Category": "Color",
+    "Rating": "★",
+    "Description": "Super fast color schemes generator"
+  },
+  {
+    "Resource": "Coursera",
+    "[ URL of the resource ]": "https://www.coursera.org/",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free online courses"
+  },
+  {
+    "Resource": "Coverr",
+    "[ URL of the resource ]": "http://www.coverr.co/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "Beutiful, free videos for your homepage"
+  },
+  {
+    "Resource": "Create CSS 3",
+    "[ URL of the resource ]": "http://createcss3.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "CSS3 code generator along with SASS Compass output and font-face generator"
+  },
+  {
+    "Resource": "Creative Commons Search Tool",
+    "[ URL of the resource ]": "https://ccsearch.creativecommons.org/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": "Find images that you can use and remix"
+  },
+  {
+    "Resource": "CSS Animate",
+    "[ URL of the resource ]": "http://cssanimate.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "CSS Keyframes animation generator"
+  },
+  {
     "Resource": "CSS Filters",
-    "url": "http://html5-demos.appspot.com/static/css/filters/index.html",
+    "[ URL of the resource ]": "http://html5-demos.appspot.com/static/css/filters/index.html",
     "Category": "Tool",
     "Rating": "",
     "Description": "Experiment with CSS filters"
   },
   {
-    "Resource": "Color Me",
-    "url": "https://colorme.io/",
+    "Resource": "CSS Font Stack",
+    "[ URL of the resource ]": "http://www.cssfontstack.com/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "CSS Icons",
+    "[ URL of the resource ]": "http://cssicon.space",
+    "Category": "Icons",
+    "Rating": "★",
+    "Description": "Pure CSS Icons"
+  },
+  {
+    "Resource": "CSS Lint",
+    "[ URL of the resource ]": "http://csslint.net/",
     "Category": "Tool",
     "Rating": "",
-    "Description": "Visualize the CSS 4 color function"
+    "Description": "Paste your css into the website to find errors, warnings, best-practices"
+  },
+  {
+    "Resource": "CSS Viewer",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "A simple CSS property viewer"
+  },
+  {
+    "Resource": "D3 JS",
+    "[ URL of the resource ]": "https://d3js.org/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Data Viz Library"
+  },
+  {
+    "Resource": "Dan's Tools: Color",
+    "[ URL of the resource ]": "http://www.hexcolortool.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "David Cronin: The GE Design System and Thoughts about Craft at Scale",
+    "[ URL of the resource ]": "https://vimeo.com/132580829",
+    "Category": "Presentations",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Design Better Forms Usability",
+    "[ URL of the resource ]": "https://uxdesign.cc/design-better-forms-96fadca0f49c#.8ihbu0pgq",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Design Systems in 2016",
+    "[ URL of the resource ]": "https://uxplanet.org/design-systems-in-2016-5415a660b29",
+    "Category": "Article",
+    "Rating": "★",
+    "Description": "Design systems primer and collection of links"
+  },
+  {
+    "Resource": "Designers How",
+    "[ URL of the resource ]": "https://designers.how/",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Watch short videos and become a better digital designer in less than five minutes a day"
+  },
+  {
+    "Resource": "Designing Imaginative Style Guides",
+    "[ URL of the resource ]": "https://24ways.org/2016/designing-imaginative-style-guides/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Designing Inspired Style Guides",
+    "[ URL of the resource ]": "https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Designing Modular UI Systems Via Styleguide-Driven Development",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Developing Extensible HTML CSS Components",
+    "[ URL of the resource ]": "https://css-tricks.com/developing-extensible-html-css-components/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Directory of new domain extensions",
+    "[ URL of the resource ]": "https://www.godaddy.com/tlds/gtld.aspx?catId=0",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Dynamic Image Colorizing with input type color",
+    "[ URL of the resource ]": "http://codepen.io/jasen1/pen/jyvJym",
+    "Category": "Color",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Easy Steps to Better Logo Design",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Ebay Design Grid System Overlay",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/design-grid-overlay/kmaadknbpdklpcommafmcboghdlopmbi",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Ebay Mindpatterns Documentation",
+    "[ URL of the resource ]": "https://ebay.gitbooks.io/mindpatterns/content/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Accessibility"
+  },
+  {
+    "Resource": "Ebay Mindpatterns Library",
+    "[ URL of the resource ]": "http://ianmcburnie.github.io/mindpatterns/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Accessibility"
+  },
+  {
+    "Resource": "Ebay Mindpatterns Skin",
+    "[ URL of the resource ]": "https://ebay.github.io/skin/",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Egghead",
+    "[ URL of the resource ]": "egghead.io",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Bite-size video tutorials for badass web developers"
+  },
+  {
+    "Resource": "Elemental UI",
+    "[ URL of the resource ]": "http://elemental-ui.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Elements",
+    "[ URL of the resource ]": "https://labelle.github.io/evolution-elements/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Enjoy CSS Online CSS Code Generator",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/enjoycss/glaicnlmooddlibnipmedfkfjkphoklc",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Online CSS3 Code Generator With a Simple Graphical Interface"
+  },
+  {
+    "Resource": "Entypo Pictograms",
+    "[ URL of the resource ]": "http://www.entypo.com/",
+    "Category": "Icons",
+    "Rating": "★",
+    "Description": "400+ carefully crafted premium pictograms"
+  },
+  {
+    "Resource": "feColorMatrix Demo",
+    "[ URL of the resource ]": "",
+    "Category": "Color",
+    "Rating": "",
+    "Description": "A tool demo for filter primitives in SVG that can be applied to HTML elements"
+  },
+  {
+    "Resource": "Firebug Lite",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench/details",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Inspect HTML elemements and live edit CSS properties"
+  },
+  {
+    "Resource": "Flat Icon",
+    "[ URL of the resource ]": "http://www.flaticon.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Free Tier - icons available in PNG, SVG, EPS, PSD and BASE 64 formats"
+  },
+  {
+    "Resource": "Flexbox Patterns",
+    "[ URL of the resource ]": "http://www.flexboxpatterns.com/home",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Flexboxgrid",
+    "[ URL of the resource ]": "http://flexboxgrid.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Flutter: CSS Selector",
+    "[ URL of the resource ]": "https://flutter.social/bookmarklet",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "CSS Selector bookmarklet"
+  },
+  {
+    "Resource": "Font 2 Web",
+    "[ URL of the resource ]": "http://font2web.com/",
+    "Category": "Font",
+    "Rating": "",
+    "Description": "Free font-face generator tool"
+  },
+  {
+    "Resource": "Font Awesome",
+    "[ URL of the resource ]": "http://fontawesome.io/",
+    "Category": "Icon Font",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Font Custom",
+    "[ URL of the resource ]": "https://github.com/FontCustom/fontcustom",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Font Playground",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?hl=en",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Preview your sites with Google web fonts and get the code"
+  },
+  {
+    "Resource": "Font Space",
+    "[ URL of the resource ]": "http://www.fontspace.com/",
+    "Category": "Fonts",
+    "Rating": "",
+    "Description": "Free fonts"
+  },
+  {
+    "Resource": "Font Squirrel",
+    "[ URL of the resource ]": "https://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Fonts in Use",
+    "[ URL of the resource ]": "http://fontsinuse.com/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "An independent archive of typography"
+  },
+  {
+    "Resource": "Fontsquirrel Webfont Generator",
+    "[ URL of the resource ]": "https://www.fontsquirrel.com/tools/webfont-generator",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Form Linter",
+    "[ URL of the resource ]": "https://formlinter.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Foundation 6",
+    "[ URL of the resource ]": "foundation.zurb.com",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Foundation Grid Inspector",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Foundation grid overlay"
+  },
+  {
+    "Resource": "Foundation Grid Overlay",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn/related",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Foundation Icon Fonts 3",
+    "[ URL of the resource ]": "http://zurb.com/playground/foundation-icon-fonts-3",
+    "Category": "Icon Font",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Fount",
+    "[ URL of the resource ]": "https://fount.artequalswork.com",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Font inspector bookmarlet"
+  },
+  {
+    "Resource": "Free background videos",
+    "[ URL of the resource ]": "http://coverr.co/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Free Icon Sets",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/02/free-icon-sets-e-commerce-web-hosting-food-science-and-more/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Free Photos Directory",
+    "[ URL of the resource ]": "http://www.socialbrite.org/sharing-center/free-photos-directory/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Free Slider Exchange",
+    "[ URL of the resource ]": "https://revolution.themepunch.com/free-slider-exchange/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "For Revolution sliders"
+  },
+  {
+    "Resource": "Free workspace illustrations kit",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2015/07/freebie-workspace-illustrations-kit/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Freebiesburg PSD Icons",
+    "[ URL of the resource ]": "http://freebiesbug.com/psd-freebies/icons/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "A collection of free PSD icons crafted and released by talented designers"
+  },
+  {
+    "Resource": "Frontify",
+    "[ URL of the resource ]": "https://frontify.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Future Learn",
+    "[ URL of the resource ]": "https://oli.cmu.edu/jcourse/workbook/activity/page?context=df3e96ed0a0001dc21cfa3c88c1ff88b",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free online courses"
+  },
+  {
+    "Resource": "GE Case Study: Creating the Predix Design System",
+    "[ URL of the resource ]": "https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.l5644w6uj",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Glyph Icons",
+    "[ URL of the resource ]": "http://glyphicons.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples available"
+  },
+  {
+    "Resource": "Golden Ratio Typography Calculator",
+    "[ URL of the resource ]": "https://pearsonified.com/typography/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Google Font Previewer",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/google-font-previewer-for/engndlnldodigdjamndkplafgmkkencc",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Preview Google Fonts on a live webpage"
+  },
+  {
+    "Resource": "Google Fonts",
+    "[ URL of the resource ]": "https://fonts.google.com/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Google Fonts Type Effects API",
+    "[ URL of the resource ]": "https://developers.google.com/fonts/docs/getting_started",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Graphics JS",
+    "[ URL of the resource ]": "http://www.graphicsjs.org/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Powerful lightweight graphics library"
+  },
+  {
+    "Resource": "Graphiq: Learn Viz Best Practices",
+    "[ URL of the resource ]": "https://www.graphiq.com/learn-viz-best-practices",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "Discover some of the best practices we strive to follow in creating visualizations."
+  },
+  {
+    "Resource": "Grid Lover",
+    "[ URL of the resource ]": "http://www.gridlover.net/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Gridalicious",
+    "[ URL of the resource ]": "http://suprb.com/apps/gridalicious/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Responsive masonry grids"
+  },
+  {
+    "Resource": "Harvard Open Learning Intro to Computer Science",
+    "[ URL of the resource ]": "http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Videos and HTML, CSS reference"
+  },
+  {
+    "Resource": "Hayley Hughes: How IBM Designs for a Global Market",
+    "[ URL of the resource ]": "http://www.monotype.com/resources/webinars/how-ibm-designs-for-a-global-market/",
+    "Category": "Presentations",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Hero Icons",
+    "[ URL of the resource ]": "http://www.heroicons.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "A set of premium customizable SVG icons for your marketing website"
+  },
+  {
+    "Resource": "Hero Patterns",
+    "[ URL of the resource ]": "http://www.heropatterns.com/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "SVG Pattern illustrations"
+  },
+  {
+    "Resource": "Highstock Charts",
+    "[ URL of the resource ]": "http://www.highcharts.com/stock/demo/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Finanical charts and graphs by Highcharts"
+  },
+  {
+    "Resource": "How Creating a Design Language Can Streamline Your UX Design Process",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "How to Build a Revolultion Slider",
+    "[ URL of the resource ]": "http://previous.themepunch.com/revolution4-jquery/liveguide/01.Sample-Boxed.html",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "How to Create a Front-End Framework with Sketch",
+    "[ URL of the resource ]": "https://medium.com/sketch-app-sources/how-to-create-a-front-end-framework-with-sketch-2379edb5e7df",
+    "Category": "Article",
+    "Rating": "☆",
+    "Description": "Tutorial on using sketch for systematic design"
+  },
+  {
+    "Resource": "How to establish a Modular Typographic Scale",
+    "[ URL of the resource ]": "http://webdesign.tutsplus.com/articles/how-to-establish-a-modular-typographic-scale--webdesign-14927",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "How to Make an HTML5 Video Background",
+    "[ URL of the resource ]": "https://envato.com/blog/video-background-html5-video/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "How to Use and Embed an Icon Font on Your Website",
+    "[ URL of the resource ]": "https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "Free Samples"
+  },
+  {
+    "Resource": "HTML 5 Boilerplate",
+    "[ URL of the resource ]": "https://html5boilerplate.com/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
   },
   {
     "Resource": "HTML Color",
-    "url": "http://html-color.org/",
+    "[ URL of the resource ]": "http://html-color.org/",
     "Category": "Tool",
     "Rating": "",
     "Description": "HTML color reference and color generator"
   },
   {
-    "Resource": "CSS Animate",
-    "url": "http://cssanimate.com/",
+    "Resource": "HTML Color Names Supported by all Browsers",
+    "[ URL of the resource ]": "http://www.w3schools.com/colors/colors_names.asp",
+    "Category": "Color",
+    "Rating": "★",
+    "Description": "Vast reference library of color palettes and color names"
+  },
+  {
+    "Resource": "HTTPster",
+    "[ URL of the resource ]": "https://httpster.net/2017/feb/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Showcasing totally rocking websites made by people from all over the world"
+  },
+  {
+    "Resource": "IBM Design Language",
+    "[ URL of the resource ]": "https://www.ibm.com/design/language/",
+    "Category": "Design System",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "IcoMoon",
+    "[ URL of the resource ]": "https://icomoon.io/#icons-icomoon",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples"
+  },
+  {
+    "Resource": "Icon Finder Pro",
+    "[ URL of the resource ]": "https://www.iconfinder.com/shopify-partners",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Icon Monster",
+    "[ URL of the resource ]": "http://iconmonstr.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Discover 3600+ free simple icons in 250+ collections"
+  },
+  {
+    "Resource": "Iconic",
+    "[ URL of the resource ]": "http://www.useiconic.com",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "The definitive icon set designed for the modern web."
+  },
+  {
+    "Resource": "Icons8 Github",
+    "[ URL of the resource ]": "https://github.com/icons8",
+    "Category": "Icon Resource",
+    "Rating": "",
+    "Description": "Open source SVG icon related offerings"
+  },
+  {
+    "Resource": "Identifont",
+    "[ URL of the resource ]": "http://www.identifont.com/",
     "Category": "Tool",
     "Rating": "",
-    "Description": "CSS Keyframes animation generator"
+    "Description": "Identify fonts"
+  },
+  {
+    "Resource": "Illustrio",
+    "[ URL of the resource ]": "https://app.illustrio.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "A smarter icon library"
+  },
+  {
+    "Resource": "Introduction to Graphics JS",
+    "[ URL of the resource ]": "https://www.sitepoint.com/introducing-graphicsjs-a-powerful-lightweight-graphics-library/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Issuu Collection of Brand Books",
+    "[ URL of the resource ]": "https://issuu.com/search?q=brandbook",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "jQuery Sparklines",
+    "[ URL of the resource ]": "http://omnipotent.net/jquery.sparkline/#s-about",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "jquery sparkline charts. Note that there are probably many other sparkline libraries online."
+  },
+  {
+    "Resource": "Libary of Congress Image Collection",
+    "[ URL of the resource ]": "http://www.loc.gov/pictures/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": "Prints & Photographs Online Catalog"
+  },
+  {
+    "Resource": "Linear Icons",
+    "[ URL of the resource ]": "https://linearicons.com/free",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples"
+  },
+  {
+    "Resource": "Living Styleguide Generator",
+    "[ URL of the resource ]": "http://hugeinc.github.io/styleguide/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Lonely Planet Style Guide",
+    "[ URL of the resource ]": "http://rizzo.lonelyplanet.com/styleguide/design-elements/colours",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Lorem Pixel",
+    "[ URL of the resource ]": "http://lorempixel.com",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "Placeholder Images"
+  },
+  {
+    "Resource": "Lynda",
+    "[ URL of the resource ]": "https://www.lynda.com",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Videos for online learning. Free with New York Public Library membership."
+  },
+  {
+    "Resource": "Mailchimp HTML Email Blueprints",
+    "[ URL of the resource ]": "https://github.com/mailchimp/Email-Blueprints",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Making an Icon Font System",
+    "[ URL of the resource ]": "https://medium.com/etsy-design/etsys-evolving-icon-system-41c55a639be2",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": "How etsy systematized and customized their icons"
+  },
+  {
+    "Resource": "Making design core to the agile process",
+    "[ URL of the resource ]": "https://medium.com/salesforce-ux/making-design-core-to-the-agile-process-3e06b083e8a8",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Managing Typography on Large Apps",
+    "[ URL of the resource ]": "http://csswizardry.com/2016/02/managing-typography-on-large-apps/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Material Design Icons",
+    "[ URL of the resource ]": "https://design.google.com/icons/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font"
+  },
+  {
+    "Resource": "Microsoft Virtual Academy",
+    "[ URL of the resource ]": "https://mva.microsoft.com/",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free training videos for developers"
+  },
+  {
+    "Resource": "Modular Scale Typography",
+    "[ URL of the resource ]": "http://www.modularscale.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "More Meaningful Typography",
+    "[ URL of the resource ]": "http://alistapart.com/article/more-meaningful-typography",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Motion Periodic Table",
+    "[ URL of the resource ]": "http://foxcodex.html.xdomain.jp/",
+    "Category": "Reference",
+    "Rating": "",
+    "Description": "Reference for motion design techniques"
+  },
+  {
+    "Resource": "Muzli",
+    "[ URL of the resource ]": "https://muz.li/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Collection of daily design inspiration"
+  },
+  {
+    "Resource": "National Park Service Image Collection",
+    "[ URL of the resource ]": "https://www.nps.gov/media/multimedia-search.htm",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Nerd's Guide to Color on the Web",
+    "[ URL of the resource ]": "https://css-tricks.com/nerds-guide-color-web/",
+    "Category": "Article",
+    "Rating": "★",
+    "Description": "Understand the mechanics behind the color you're using. Includes demos."
+  },
+  {
+    "Resource": "New York Public Library Image Collection",
+    "[ URL of the resource ]": "http://digital.nypl.org/mmpco/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Nucleo",
+    "[ URL of the resource ]": "https://nucleoapp.com/free-icons/",
+    "Category": "Icons",
+    "Rating": "★",
+    "Description": "Samples - Nucleo is a library of icons with super powers"
+  },
+  {
+    "Resource": "Octicons by Github",
+    "[ URL of the resource ]": "https://octicons.github.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Your project. GitHub's icons."
+  },
+  {
+    "Resource": "On Design Systems: Sell the Output, Not the Workflow",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Open 2 Study",
+    "[ URL of the resource ]": "https://www.open2study.com/courses",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Handful of free online course about marketing & advertising"
+  },
+  {
+    "Resource": "Open Color",
+    "[ URL of the resource ]": "https://yeun.github.io/open-color/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "Open-source color scheme optimized for UI"
+  },
+  {
+    "Resource": "Open Color Tools App",
+    "[ URL of the resource ]": "http://opencolor.tools",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Opencolor Color Palettes",
+    "[ URL of the resource ]": "http://opencolor.tools/resources.html",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Opensource Design",
+    "[ URL of the resource ]": "http://opensourcedesign.net/resources/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "For designers interested in open source design"
+  },
+  {
+    "Resource": "Pattern Lab",
+    "[ URL of the resource ]": "http://patternlab.io/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Patterny",
+    "[ URL of the resource ]": "http://patternry.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Payment Font",
+    "[ URL of the resource ]": "http://paymentfont.io/",
+    "Category": "Font",
+    "Rating": "",
+    "Description": "A sleek webfont containing 95 icons of all main payment operators and methods"
+  },
+  {
+    "Resource": "Peity Charts JS",
+    "[ URL of the resource ]": "https://benpickles.github.io/peity/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Mini charts and graphs with jquery and svg"
+  },
+  {
+    "Resource": "People Images",
+    "[ URL of the resource ]": "http://peopleimages.com/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Photo Bucket",
+    "[ URL of the resource ]": "http://photobucket.com/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Pixlesurplus Free Fonts",
+    "[ URL of the resource ]": "http://www.pixelsurplus.com/freebies/",
+    "Category": "Fonts",
+    "Rating": "",
+    "Description": "Free fonts"
+  },
+  {
+    "Resource": "Pricing Pages",
+    "[ URL of the resource ]": "http://www.pricingpages.xyz/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Curated directory of the best pricing pages"
+  },
+  {
+    "Resource": "Princeton Free Online Courses",
+    "[ URL of the resource ]": "http://online.princeton.edu/courses",
+    "Category": "Learning",
+    "Rating": "",
+    "Description": "Free online courses"
+  },
+  {
+    "Resource": "Product Pages",
+    "[ URL of the resource ]": "http://www.productpages.xyz/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Curated director of the best product pages"
+  },
+  {
+    "Resource": "Pure CSS",
+    "[ URL of the resource ]": "http://purecss.io/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Random String to CSS Color",
+    "[ URL of the resource ]": "http://randomstringtocsscolor.com/",
+    "Category": "Color",
+    "Rating": "",
+    "Description": "A tool for generating color by typing in a word."
+  },
+  {
+    "Resource": "Ready For Retina HD: Create Pixel-Perfect Assets For Multiple Scale Factors",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2014/10/create-assets-for-multiple-scale-factors/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "How to set up multiple image resolution workflow in Photoshop"
+  },
+  {
+    "Resource": "Refactoring CSS Without Losing Your Mind",
+    "[ URL of the resource ]": "https://speakerdeck.com/csswizardry/refactoring-css-without-losing-your-mind",
+    "Category": "Presentations",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Responsive Videos",
+    "[ URL of the resource ]": "https://css-tricks.com/reframe-js-notes/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Rethinking Responsive SVG",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2014/03/rethinking-responsive-svg/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Salesforce Lightning Design System",
+    "[ URL of the resource ]": "https://www.lightningdesignsystem.com/",
+    "Category": "Design System",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Sanfrancis co",
+    "[ URL of the resource ]": "http://www.sansfrancis.co/",
+    "Category": "Resource",
+    "Rating": "★",
+    "Description": "A collection of tools to help designers craft delightful experiences."
+  },
+  {
+    "Resource": "Sassmeister: In-Browser SASS and SCSS Editor",
+    "[ URL of the resource ]": "sassmeister.com",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Scale and Rhythm",
+    "[ URL of the resource ]": "http://lamb.cc/typograph/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Scaling SVG icons without scaling the stroke",
+    "[ URL of the resource ]": "http://callmenick.com/post/svg-vector-effects",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Searchable Bootstrap Icons",
+    "[ URL of the resource ]": "http://www.bootstrapicons.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Semantic UI",
+    "[ URL of the resource ]": "http://semantic-ui.com",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Shipify: 12 Incredible Resources for Downloading Icon Packs",
+    "[ URL of the resource ]": "https://www.shopify.com/partners/blog/65360643-12-incredible-resources-for-downloading-icon-packs",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Shopify: How to Use Icons to Enhance your Ecommerce Website",
+    "[ URL of the resource ]": "https://www.shopify.com/partners/blog/how-to-use-icons-to-enhance-your-ecommerce-website",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Skeleton",
+    "[ URL of the resource ]": "http://getskeleton.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Slick Slider",
+    "[ URL of the resource ]": "https://kenwheeler.github.io/slick/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "CSS image sliders"
+  },
+  {
+    "Resource": "Smart Icons",
+    "[ URL of the resource ]": "https://smarticons.co/icons",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples"
+  },
+  {
+    "Resource": "Smart Icons Glyphs",
+    "[ URL of the resource ]": "http://glyph.smarticons.co/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "A semantic and versatile SVG icon set designed for customization."
+  },
+  {
+    "Resource": "sparkk: SVG Icons",
+    "[ URL of the resource ]": "http://svgicons.sparkk.fr/",
+    "Category": "Icons",
+    "Rating": "★",
+    "Description": "Ready to use SVG icons for the web"
+  },
+  {
+    "Resource": "Spotify Color Effects",
+    "[ URL of the resource ]": "http://codepen.io/vailjoy/pen/OWVwvO/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Spotify: Design Doesn't Scale",
+    "[ URL of the resource ]": "https://medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Stackedit: In-Browser Markdown Editor",
+    "[ URL of the resource ]": "https://stackedit.io/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Store Pages",
+    "[ URL of the resource ]": "http://www.storepages.xyz/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Curated directory of the best store pages"
+  },
+  {
+    "Resource": "Streamline Icons",
+    "[ URL of the resource ]": "http://www.streamlineicons.com/free-icons.html",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples"
+  },
+  {
+    "Resource": "Styleguides Directory",
+    "[ URL of the resource ]": "http://styleguides.io/",
+    "Category": "Collection",
+    "Rating": "★",
+    "Description": ""
+  },
+  {
+    "Resource": "Sublime Text Package Control Color Highlighter",
+    "[ URL of the resource ]": "https://packagecontrol.io/packages/Color%20Highlighter",
+    "Category": "Color",
+    "Rating": "",
+    "Description": "Plugin for the Sublime text,which underlays selected hexadecimal colorcodes with their real color."
+  },
+  {
+    "Resource": "SVG Charting Libraries",
+    "[ URL of the resource ]": "http://mediatemple.net/blog/tips/svg-charting-libraries/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "SVG Icon Web Code",
+    "[ URL of the resource ]": "https://icons8.github.io/webicon/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "SVG Maps",
+    "[ URL of the resource ]": "http://mediatemple.net/blog/tips/map-rollovers1/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "SVG us",
+    "[ URL of the resource ]": "http://www.svgs.us/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Organize, clean and transform your SVGs"
+  },
+  {
+    "Resource": "Swift Icons",
+    "[ URL of the resource ]": "http://market.designmodo.com/swifticons/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Samples with Email"
+  },
+  {
+    "Resource": "Swiper Slider",
+    "[ URL of the resource ]": "http://www.idangero.us/swiper/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Symbolset",
+    "[ URL of the resource ]": "https://symbolset.com/icons",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Tachyons",
+    "[ URL of the resource ]": "http://tachyons.io/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Tachyons Components",
+    "[ URL of the resource ]": "http://tachyons.io/components/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "For use with tachyons framework"
+  },
+  {
+    "Resource": "Taking Pattern Libraries to the Next Level",
+    "[ URL of the resource ]": "https://www.smashingmagazine.com/2016/10/taking-pattern-libraries-to-the-next-level/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "The Language of Modular Design",
+    "[ URL of the resource ]": "http://alistapart.com/article/language-of-modular-design",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "The New Defaults",
+    "[ URL of the resource ]": "https://dudleystorey.github.io/thenewdefaults/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "A Sass replacement for the standard CSS keyword color system"
+  },
+  {
+    "Resource": "The Noun Project",
+    "[ URL of the resource ]": "https://thenounproject.com/",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Free Tier"
+  },
+  {
+    "Resource": "The Road to SVG and Custom Elements in Clarity Icons",
+    "[ URL of the resource ]": "https://medium.com/claritydesignsystem/the-road-to-svg-and-custom-elements-in-clarity-icons-1d691c6cc91",
+    "Category": "Case Study",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "The Typographic Scale",
+    "[ URL of the resource ]": "http://retinart.net/typography/typographicscale/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Three JS",
+    "[ URL of the resource ]": "https://threejs.org/",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "Javascript 3D Library"
+  },
+  {
+    "Resource": "Tympanus Codrops Blueprints",
+    "[ URL of the resource ]": "http://tympanus.net/codrops/category/blueprints/",
+    "Category": "Library",
+    "Rating": "★",
+    "Description": "Basic and minimal website concepts, components, plugins and layout"
+  },
+  {
+    "Resource": "Tympanus.net: SVG Icons FTW",
+    "[ URL of the resource ]": "http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Type Anything",
+    "[ URL of the resource ]": "https://typeanything.io/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Compare mixes of fonts"
+  },
+  {
+    "Resource": "Type Scale",
+    "[ URL of the resource ]": "http://type-scale.com/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "A visual type scale"
+  },
+  {
+    "Resource": "Typeplate: Typographic Starter Kit",
+    "[ URL of the resource ]": "http://typeplate.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Typografier Modular Scale Type Generator",
+    "[ URL of the resource ]": "https://typografier.web-dev.tools",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Typography First",
+    "[ URL of the resource ]": "http://anartfulscience.com/Typography-First.php",
+    "Category": "Article",
+    "Rating": "",
+    "Description": "A web designer's guide to perfecting web typography"
+  },
+  {
+    "Resource": "Typography Handbook",
+    "[ URL of the resource ]": "http://typographyhandbook.com/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Ubuntu Design Guidelines",
+    "[ URL of the resource ]": "http://design.ubuntu.com/",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "UI 8",
+    "[ URL of the resource ]": "https://ui8.net/categories/freebies",
+    "Category": "Design Resource",
+    "Rating": "",
+    "Description": "Collection of free design resources to get you started"
+  },
+  {
+    "Resource": "UI lang",
+    "[ URL of the resource ]": "http://uilang.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": "A minimal, ui-focused javascript programming language for web designers"
+  },
+  {
+    "Resource": "Unicode Icons",
+    "[ URL of the resource ]": "https://unicode-table.com",
+    "Category": "Reference",
+    "Rating": "",
+    "Description": "Unicode Icons Lookup Table"
+  },
+  {
+    "Resource": "Unsplash: Free High Resolution Photos",
+    "[ URL of the resource ]": "https://unsplash.com/",
+    "Category": "Image",
+    "Rating": "★",
+    "Description": "Free high-resolution photos"
+  },
+  {
+    "Resource": "US Air Force Images",
+    "[ URL of the resource ]": "http://www.af.mil/News/Photos.aspx",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "US Army Images",
+    "[ URL of the resource ]": "https://www.army.mil/photos",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "US Department of Defense Image Gallery",
+    "[ URL of the resource ]": "https://www.defense.gov/Photos/Photo-Gallery",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "US Marines Images",
+    "[ URL of the resource ]": "http://www.marines.mil/Photos.aspx",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "US National Archives",
+    "[ URL of the resource ]": "https://www.archives.gov/research/alic/reference/photography.html",
+    "Category": "Image",
+    "Rating": "",
+    "Description": "Images from the National Archives"
+  },
+  {
+    "Resource": "US Navy Images",
+    "[ URL of the resource ]": "https://www.army.mil/photos",
+    "Category": "Image",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "USDA Image Gallery",
+    "[ URL of the resource ]": "https://www.ars.usda.gov/oc/images/image-gallery/",
+    "Category": "Image",
+    "Rating": "",
+    "Description": "Food"
+  },
+  {
+    "Resource": "User CSS",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "A quick and easy way to add custom CSS to the current web site."
+  },
+  {
+    "Resource": "UX Power Tools",
+    "[ URL of the resource ]": "https://www.uxpower.tools/",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": "Sketch UI kit and style guide"
+  },
+  {
+    "Resource": "Vital CSS",
+    "[ URL of the resource ]": "https://vitalcss.com/",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Vizuly",
+    "[ URL of the resource ]": "http://vizuly.io/product-category/free/",
+    "Category": "Design Resource",
+    "Rating": "",
+    "Description": "Vizualization components for the modern web"
+  },
+  {
+    "Resource": "Voice and Tone",
+    "[ URL of the resource ]": "http://voiceandtone.com/",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Vue JS Feed",
+    "[ URL of the resource ]": "https://vuejsfeed.com/",
+    "Category": "Collection",
+    "Rating": "",
+    "Description": "Links related to vue js"
+  },
+  {
+    "Resource": "w3 Checklink Validator",
+    "[ URL of the resource ]": "https://validator.w3.org/checklink",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Scan a URL for broken links and other issues"
+  },
+  {
+    "Resource": "W3C Schools CSS Templates",
+    "[ URL of the resource ]": "http://www.w3schools.com/w3css/w3css_templates.asp",
+    "Category": "Resource",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "w3css",
+    "[ URL of the resource ]": "http://www.w3schools.com/w3css/default.asp",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "w3schools colors",
+    "[ URL of the resource ]": "http://www.w3schools.com/colors/default.asp",
+    "Category": "Colors",
+    "Rating": "",
+    "Description": "Colors tutorials and reference libarary of color palettes"
+  },
+  {
+    "Resource": "Walmart Web Style Guide",
+    "[ URL of the resource ]": "http://walmartlabs.github.io/web-style-guide/",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "We Love SVG",
+    "[ URL of the resource ]": "https://icons8.com/welovesvg",
+    "Category": "Icons",
+    "Rating": "",
+    "Description": "Icons8 Open Source SVG Icons"
+  },
+  {
+    "Resource": "Web Developer Tools",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Port of web developer tools from firefox"
+  },
+  {
+    "Resource": "Web fonts: Skyfonts for Syncing Google Fonts to Your Desktop",
+    "[ URL of the resource ]": "https://www.fonts.com/web-fonts/google",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Webflow: Tips and Resources",
+    "[ URL of the resource ]": "https://webflow.com/blog/website-background-video-tips-tricks-and-resources",
+    "Category": "Article",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Wee",
+    "[ URL of the resource ]": "weepower.com",
+    "Category": "Framework",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "WhatFont",
+    "[ URL of the resource ]": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm",
+    "Category": "Chrome Plugin",
+    "Rating": "",
+    "Description": "Identify fonts on web pages"
+  },
+  {
+    "Resource": "Wix Brand Guide",
+    "[ URL of the resource ]": "http://www.wix.com/about/design-assets",
+    "Category": "Style Guide",
+    "Rating": "",
+    "Description": ""
+  },
+  {
+    "Resource": "Wordmark It",
+    "[ URL of the resource ]": "http://www.wordmark.it/",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Wordmark font experimenter"
+  },
+  {
+    "Resource": "Zurb Motion UI Library",
+    "[ URL of the resource ]": "http://zurb.com/playground/motion-ui",
+    "Category": "Library",
+    "Rating": "",
+    "Description": "A Sass library for creating flexible CSS transitions and animations"
   }
 ]
 }
