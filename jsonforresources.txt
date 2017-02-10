@@ -162,7 +162,7 @@
   },
   {
     "Resource": "Bootstrap 3",
-    "url": "getbootstrap.com",
+    "url": "http://getbootstrap.com",
     "Category": "Framework",
     "Rating": "",
     "Description": ""
@@ -232,7 +232,7 @@
   },
   {
     "Resource": "Brand AI",
-    "url": "Brand.ai",
+    "url": "http://Brand.ai",
     "Category": "Tool",
     "Rating": "",
     "Description": ""
@@ -504,6 +504,13 @@
     "Description": "A simple CSS property viewer"
   },
   {
+    "Resource": "CSV to JSON",
+    "url": "http://www.csvjson.com/csv2json",
+    "Category": "Tool",
+    "Rating": "",
+    "Description": "Convert CSV files to JSON"
+  },
+  {
     "Resource": "D3 JS",
     "url": "https://d3js.org/",
     "Category": "Library",
@@ -624,7 +631,7 @@
   },
   {
     "Resource": "Egghead",
-    "url": "egghead.io",
+    "url": "https://egghead.io/",
     "Category": "Learning",
     "Rating": "",
     "Description": "Bite-size video tutorials for badass web developers"
@@ -742,6 +749,13 @@
     "Description": ""
   },
   {
+    "Resource": "Fonts Great Simple",
+    "url": "http://fonts.greatsimple.io/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Paired Google Fonts"
+  },
+  {
     "Resource": "Fonts in Use",
     "url": "http://fontsinuse.com/",
     "Category": "Inspiration",
@@ -764,7 +778,7 @@
   },
   {
     "Resource": "Foundation 6",
-    "url": "foundation.zurb.com",
+    "url": "http://foundation.zurb.com",
     "Category": "Framework",
     "Rating": "",
     "Description": ""
@@ -1083,6 +1097,13 @@
     "Category": "Icons",
     "Rating": "",
     "Description": "A smarter icon library"
+  },
+  {
+    "Resource": "Information is Beautiful",
+    "url": "http://www.informationisbeautiful.net/",
+    "Category": "Inspiration",
+    "Rating": "",
+    "Description": "Data viz collection"
   },
   {
     "Resource": "Introduction to Graphics JS",
@@ -1422,7 +1443,7 @@
   },
   {
     "Resource": "Sassmeister: In-Browser SASS and SCSS Editor",
-    "url": "sassmeister.com",
+    "url": "http://www.sassmeister.com/",
     "Category": "Tool",
     "Rating": "",
     "Description": ""
@@ -1912,7 +1933,7 @@
   },
   {
     "Resource": "Wee",
-    "url": "weepower.com",
+    "url": "https://www.weepower.com/",
     "Category": "Framework",
     "Rating": "",
     "Description": ""
