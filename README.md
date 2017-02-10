@@ -10,3 +10,7 @@ Based on the following design and technology:
 Powered by jQuery, and must run on localhost or a server to work correctly.
 
 Be sure to remove restrictions on image permissions, set to at least "read only"
+
+In you spreadsheet, the URLs need to lead with http:// or https:// or else the links will break
+
+Tip: Check if your links are broken by using the Chrome Plugin [Check My LInks] (https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB)
